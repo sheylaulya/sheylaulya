@@ -9,11 +9,16 @@ hi there everyone My name is Sheyla Aulya, and I was born in Jakarta on March 24
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning Flutter and Javascript into expert
 - 🤔 Very interested in Cyber Security and AI
-- 💬 Ask me about coding, design or organisation 
+- 💬 Ask me about coding, design or organization
+- 📫 How to reach me <br />
+  Email: sheylaulyaa@gmail.com <br />
+  Instagram: https://www.instagram.com/sheyworks <br />
+  Telegram: https://t.me/sheylaulya <br />
+   
 
 <hr>
 
-### Programming Languages, Frameworks and Tools
+###  💻 Programming Languages, Frameworks and Tools
 
 <p style="margin-bottom:20px;">
 <img align="left" alt="Java" width="40px" style="padding-right:10px;;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -37,7 +42,7 @@ hi there everyone My name is Sheyla Aulya, and I was born in Jakarta on March 24
 
 <hr>
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=sheylaulya&show_icons=true&theme=transparent" />
 
 
