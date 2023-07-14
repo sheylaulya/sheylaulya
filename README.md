@@ -2,7 +2,7 @@
 
 **`Web and Mobile App Developer`**
 
-hi there everyone My name is Sheyla Aulya, and I was born in Jakarta on March 24, 2006. I've had a passion for programming since I was 15 years old. I recently begin my journey as a front-end developer but am working toward becoming a full-stack developer. I enjoy discovering new things.
+Hi there my name is Sheyla Aulya, and I was born in Jakarta on March 24, 2006. I've had a passion for programming since I was 15 years old. I recently begin my journey as a front-end developer but am working toward becoming a full-stack developer. I enjoy discovering new things.
 
 <hr>
 
