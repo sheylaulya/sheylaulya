@@ -1,4 +1,3 @@
-<h1 align="center">Sheyla Aulya</h1>
 
 **`Web and Mobile App Developer`**
 
