@@ -13,7 +13,7 @@ Hi there my name is Sheyla Aulya, and I was born in Jakarta on March 24, 2006. I
   Email: sheylaulyaa@gmail.com <br />
   Instagram: https://www.instagram.com/sheyworks <br />
   Telegram: https://t.me/sheylaulya <br />
-   
+  Linkedin: https://www.linkedin.com/in/sheyla-aulya-7b3a3b2a4
 
 <hr>
 
