@@ -1,18 +1,16 @@
 
-**`Web and Mobile App Developer`**
+**`Fullstack Web Developer | Game Programmer Enthusiasst`**
 
-Hi there my name is Sheyla Aulya, and I was born in Jakarta on March 24, 2006. I've had a passion for programming since I was 15 years old. I recently begin my journey as a front-end developer but am working toward becoming a full-stack developer. I enjoy discovering new things.
+Hi there my name is Sheyla Aulya, i was born in Jakarta on March 24, 2006. I've had a passion for programming since I was 15. I enjoy discovering new things.
 
 <hr>
 
-- 🔭 I’m currently open to work
-- 🌱 I’m currently learning Flutter and Javascript into expert
+- 🔭 I’m currently open for any learning opportunities
+- 🌱 I’m currently learning C# and Python
 - 🤔 Very interested in Cyber Security and AI
-- 💬 Ask me about coding, design or organization
 - 📫 How to reach me <br />
   Email: sheylaulyaa@gmail.com <br />
   Instagram: https://www.instagram.com/sheyworks <br />
-  Telegram: https://t.me/sheylaulya <br />
   Linkedin: https://www.linkedin.com/in/sheyla-aulya-7b3a3b2a4
 
 <hr>
