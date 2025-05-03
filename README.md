@@ -7,7 +7,7 @@ Hi there my name is Sheyla Aulya, i was born in Jakarta on March 24, 2006. I've 
 
 - 🔭 I’m currently open for any learning opportunities
 - 🌱 I’m currently learning C# and Python
-- 🤔 Very interested in Cyber Security and AI
+- 🤔 Very interested in Cyber Security and Machine Learning
 - 📫 How to reach me <br />
   Email: sheylaulyaa@gmail.com <br />
   Instagram: https://www.instagram.com/sheyworks <br />
