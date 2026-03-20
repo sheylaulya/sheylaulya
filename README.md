@@ -72,6 +72,20 @@ Currently serving as **President of the Student Consultative Assembly (MPM)** at
 > 🏗️ Delivered **4 major company products** and **2 client products** · **19 responsive landing pages** · Full-cycle: design → dev → QA → deployment
 
 ---
+
+## 📊 GitHub Stats
+
+### 🔥 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheylaulya&show_icons=true&theme=tokyonight)
+
+### 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheylaulya&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=sheylaulya&theme=tokyonight)
+
+---
+
 <div align="center">
 
 **Let's build something meaningful together.**
